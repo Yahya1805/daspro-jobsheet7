@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class SiakadFor09 {
+public  class SiakadFor09 {
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -21,7 +22,7 @@ public class SiakadFor09 {
 
         System.out.println("Nilai tertinggi: " + tertinggi);
         System.out.println("Nilai terendah: " + terendah);
-        
+
 
     }
 }
